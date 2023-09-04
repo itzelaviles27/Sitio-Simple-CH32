@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(10, 24, 227);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    h1,h2,p {
+        color:beige
+    }
+}
